@@ -545,3 +545,7 @@ namespace GoF2Remake.EditorTools
         }
     }
 }
+        // The language buttons of the main menu: languageCodes / languageNames / languageTables are filled
+        // from this list, so all three arrays stay the same length and index. ...
+        // "zh-Hans" (Simplified Chinese) is the remake's own addition: ...
+            ("zh-Hans", "简体中文"),
